@@ -55,7 +55,7 @@ Untuk mempersiapkan data bagi algoritma machine learning, kami menyiapkan alat u
 ## 🚀 How to Run
 1.  Clone repository ini:
     ```bash
-    git clone [https://github.com/username/california-housing-fe.git](https://github.com/username/california-housing-fe.git)
+    git clone [[https://github.com/username/california-housing-fe.git](https://github.com/username/california-housing-fe.git](https://github.com/RandiBro234/FeatureEngineering-MachineLearningOps-Randi-Nandika-Danendra))
     ```
 2.  Install library yang dibutuhkan:
     ```bash
