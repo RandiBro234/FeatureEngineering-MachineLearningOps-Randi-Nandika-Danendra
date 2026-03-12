@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Maintained-Yes-success.svg)](#)
 
 ## 📌 Project Overview
-Proyek ini merupakan kumpulan teknik dan dokumentasi lengkap mengenai **Feature Engineering**—tahap paling krusial dalam membangun model Machine Learning yang akurat. Repositori ini berisi workflow sistematis untuk mengubah data mentah menjadi fitur-fitur yang siap dikonsumsi oleh algoritma prediktif.
+Proyek ini merupakan kumpulan teknik dan dokumentasi lengkap mengenai **Feature Engineering** tahap paling krusial dalam membangun model Machine Learning yang akurat. Repositori ini berisi workflow sistematis untuk mengubah data mentah menjadi fitur-fitur yang siap dikonsumsi oleh algoritma prediktif.
 
 ## 🚀 Key Features & Workflow
 
@@ -26,7 +26,7 @@ Mengubah data tekstual menjadi format numerik:
 * **One-Hot Encoding:** Untuk data nominal (tidak memiliki tingkatan).
 
 ### 4. Data Transformation & Scaling
-Menyelaraskan skala fitur agar algoritma (seperti KNN, SVM, atau NN) dapat konvergen lebih cepat:
+Menyelaraskan skala fitur agar algoritma (seperti RandomForest, Regresi, SVM) dapat konvergen lebih cepat:
 * **StandardScaler:** Transformasi data ke Mean 0 dan Std Dev 1.
 * **MinMaxScaler:** Normalisasi data ke rentang 0-1.
 * **Log Transformation:** Menangani distribusi data yang miring (*skewed*).
